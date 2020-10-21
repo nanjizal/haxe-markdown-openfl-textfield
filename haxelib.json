@@ -1,6 +1,6 @@
 {
 	"name": "markdown-openfl-textfield",
-	"url" : "https://github.com/BowlerHatLLC/markdown-openfl-textfield",
+	"url" : "https://github.com/BowlerHatLLC/haxe-markdown-openfl-textfield",
 	"license": "MIT",
 	"tags": ["markdown", "openfl", "textfield"],
 	"description": "A markdown library for OpenFL",
